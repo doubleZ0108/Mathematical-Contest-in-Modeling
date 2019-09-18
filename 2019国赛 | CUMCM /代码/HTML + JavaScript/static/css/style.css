@@ -1,0 +1,17 @@
+.top{
+    background-color: lightsalmon;
+}
+.left{
+    background-color: lightpink;
+}
+.bottom{
+    background-color: lightgray;
+}
+.right{
+    background-color: lightblue;
+}
+#mytabel{
+    height: 400px;
+    width: 100%;
+    text-align: center;
+}
