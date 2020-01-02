@@ -1,4 +1,4 @@
-rclear
+clear
 clc
 
 S = zeros(1,500);
