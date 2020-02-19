@@ -13,7 +13,8 @@
 ## 2020年美赛 | MCM
 
 - **Problem**: Problem A Moving North
-- **Article**: 
+- **Article**: [Habitat Migration Model of Herring and Mackerel Based on Markov Chain](https://github.com/doubleZ0108/Mathematical-Contest-in-Modeling/blob/master/2020%E7%BE%8E%E8%B5%9B%20%7C%20MCM/article/2001958.pdf)
+- **Certificate**: the paper is still under evaluating...
 
 ------
 
