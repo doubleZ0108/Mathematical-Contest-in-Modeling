@@ -26,11 +26,11 @@ Table of Contents
 
   - Finalist
 
-    <img align="center" src="2020美赛 | MCM/Finalist_Certificate.png" alt="Finalist_Certificate" width="70%;" />
+    <div align="center"><img src="2020美赛 | MCM/Finalist_Certificate.png" alt="Finalist_Certificate" width="70%;" /></div>
 
   - The paper has been accepted for publication at the "2020 International Conference on EarthScience, Energy Technology and Environmental Protection (ESETEP 2020)"
 
-    <img align="center" src="2020美赛 | MCM/Acceptance Letter for Article ESETEP-397.png" alt="Acceptance Letter for Article ESETEP-397" width="50%;" />
+    <div align="center"><img src="2020美赛 | MCM/Acceptance Letter for Article ESETEP-397.png" alt="Acceptance Letter for Article ESETEP-397" width="50%;" /></div>
 
 ------
 
@@ -44,11 +44,11 @@ Table of Contents
 
   - 2019年高教社杯全国大学生数学建模竞赛本科组二等奖
 
-    <img align="center" src="2019国赛 | CUMCM/数模国家二等奖.jpg" alt="数模国家二等奖" width="70%;" />
+    <div align="center"><img src="2019国赛 | CUMCM/数模国家二等奖.jpg" alt="数模国家二等奖" width="70%;" /></div>
 
   - 2019年上海赛区本科组一等奖
 
-    <img align="center" src="2019国赛 | CUMCM/数模上海赛区一等奖.jpg" alt="数模上海赛区一等奖" width="70%;" />
+    <div align="center"><img align="center" src="2019国赛 | CUMCM/数模上海赛区一等奖.jpg" alt="数模上海赛区一等奖" width="70%;" /></div>
 
 ------
 
@@ -60,4 +60,4 @@ Table of Contents
 
 - **成绩**：2019年同济大学数学建模竞赛三等奖
 
-  <img align="center" src="2019校赛 | TJMCM/2019数模校赛证书.png" alt="2019数模校赛证书" width="70%;" />
+  <div align="center"><img src="2019校赛 | TJMCM/2019数模校赛证书.png" alt="2019数模校赛证书" width="70%;" /></div?
