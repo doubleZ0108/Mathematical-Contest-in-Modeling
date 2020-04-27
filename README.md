@@ -12,7 +12,7 @@ Table of Contents
 | 姓名 \| Name      | 张喆 \| Zhe Zhang             |
 | ----------------- | ----------------------------- |
 | 学校 \| School    | 同济大学 \| Tongji University |
-| 联系方式 \| Email | doubleZ0108@163.com           |
+| 联系方式 \| Email | dbzdbz@tongji.edu.cn          |
 
 ------
 
@@ -26,11 +26,11 @@ Table of Contents
 
   - Finalist
 
-    <img src="2020美赛 | MCM/Finalist_Certificate.png" alt="Finalist_Certificate" width="70%;" />
+    <img align="center" src="2020美赛 | MCM/Finalist_Certificate.png" alt="Finalist_Certificate" width="70%;" />
 
   - The paper has been accepted for publication at the "2020 International Conference on EarthScience, Energy Technology and Environmental Protection (ESETEP 2020)"
 
-    <img src="2020美赛 | MCM/Acceptance Letter for Article ESETEP-397.png" alt="Acceptance Letter for Article ESETEP-397" width="50%;" />
+    <img align="center" src="2020美赛 | MCM/Acceptance Letter for Article ESETEP-397.png" alt="Acceptance Letter for Article ESETEP-397" width="50%;" />
 
 ------
 
@@ -44,11 +44,11 @@ Table of Contents
 
   - 2019年高教社杯全国大学生数学建模竞赛本科组二等奖
 
-    <img src="2019国赛 | CUMCM/数模国家二等奖.jpg" alt="数模国家二等奖" width="70%;" />
+    <img align="center" src="2019国赛 | CUMCM/数模国家二等奖.jpg" alt="数模国家二等奖" width="70%;" />
 
   - 2019年上海赛区本科组一等奖
 
-    <img src="2019国赛 | CUMCM/数模上海赛区一等奖.jpg" alt="数模上海赛区一等奖" width="70%;" />
+    <img align="center" src="2019国赛 | CUMCM/数模上海赛区一等奖.jpg" alt="数模上海赛区一等奖" width="70%;" />
 
 ------
 
@@ -60,4 +60,4 @@ Table of Contents
 
 - **成绩**：2019年同济大学数学建模竞赛三等奖
 
-  <img src="2019校赛 | TJMCM/2019数模校赛证书.png" alt="2019数模校赛证书" width="70%;" />
+  <img align="center" src="2019校赛 | TJMCM/2019数模校赛证书.png" alt="2019数模校赛证书" width="70%;" />
