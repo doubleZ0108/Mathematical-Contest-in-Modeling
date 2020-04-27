@@ -1,8 +1,4 @@
 # 数学建模 | Mathematical Contest in Modeling
-<<<<<<< HEAD
-
-=======
->>>>>>> 7c837520e6af638cd59c90635c1d00ac2c520ffd
 Table of Contents
 =================
 
@@ -64,8 +60,4 @@ Table of Contents
 
 - **成绩**：2019年同济大学数学建模竞赛三等奖
 
-<<<<<<< HEAD
-   <img src="2019校赛 | TJMCM/2019数模校赛证书.png" alt="2019数模校赛证书" width="70%;" />
-=======
-   <img src="2019校赛 | TJMCM/2019数模校赛证书.png" alt="2019数模校赛证书" style="zoom:50%;" />
->>>>>>> 7c837520e6af638cd59c90635c1d00ac2c520ffd
+  <img src="2019校赛 | TJMCM/2019数模校赛证书.png" alt="2019数模校赛证书" width="70%;" />
